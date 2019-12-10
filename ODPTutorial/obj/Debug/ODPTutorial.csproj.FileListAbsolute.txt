@@ -1,0 +1,7 @@
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\bin\Debug\ODPTutorial.exe.config
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\bin\Debug\ODPTutorial.exe
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\bin\Debug\ODPTutorial.pdb
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\obj\Debug\ODPTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\obj\Debug\ODPTutorial.exe
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\obj\Debug\ODPTutorial.pdb
+C:\Users\Mohammad\Downloads\Other Programming\ODPTutorial\ODPTutorial\bin\Debug\Oracle.ManagedDataAccess.dll
